@@ -1,4 +1,4 @@
-<h1 align="center">Ridho Hasbi Ashiddiq</h1>
+<h1 align="center">Ridho Hasbi Ashiddiq (Kokong)</h1>
 <h3 align="center">Software Engineer | Fullstack Web & Mobile Developer</h3>
 
 ---
@@ -19,12 +19,12 @@ I am a Software Engineering professional focused on building scalable, offline-f
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ### GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridho-jwp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ridho-jwp&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridho-jwp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
