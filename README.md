@@ -1,4 +1,4 @@
-<h1 align="center">Ridho Hasbi Ashiddiq (Kokong)</h1>
+<h1 align="center">Ridho Hasbi Ashiddiq</h1>
 <h3 align="center">Software Engineer | Fullstack Web & Mobile Developer</h3>
 
 ---
